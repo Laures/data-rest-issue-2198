@@ -1,0 +1,8 @@
+spring:
+  jpa:
+    generate-ddl: on
+
+  data:
+    rest:
+      return-body-on-update: true
+      return-body-on-create: true
